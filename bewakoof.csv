@@ -1,0 +1,7 @@
+FY,revenue,net_loss,expenses,ad_spend,employee_cost,procurement,other_expenses,gross_sales,returns,return_rate,funding_note
+2020,210,28,238,41,18,50,129,,,, Pre-COVID peak
+2021,140,15,155,22,14,38,81,,,,Pandemic recovery
+2022,160,31,191,33,40,60,58,,,,ABFRL acquisition year
+2023,147,13,242,28,59,86,69,,,,Post-acquisition restructuring
+2024,161,103,265,47,43,87,88,230,69,0.30,Offline expansion begins
+2025,173,73,248,49,26,87,86,264,67,0.25,Cost rationalisation
